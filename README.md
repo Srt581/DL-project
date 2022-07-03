@@ -1,0 +1,2 @@
+# DL-project
+Smart surveillance is getting increasingly popular as technologies become easier to use and cheaper. Traditional surveillance records video footage to a storage device  continuously. However, this generates enormous amount of data  and reduces the life of the hard drive. Newer devices with  Internet connection save footage to the Cloud. This feature  comes with bandwidth requirements and extra Cloud costs. In  this paper, we propose a deep learning based, distributed, and  scalable surveillance architecture using Dlib in Python and  Cloud Computing.
